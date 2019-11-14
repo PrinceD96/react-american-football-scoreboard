@@ -120,3 +120,17 @@
   margin: 1rem;
   border-radius: 4px;
 }
+
+.nextQuarter {
+  margin: 1rem;
+  border-radius: 4px;
+  background:  whitesmoke;
+  color: #0b5402;
+  border: 2px solid black;
+}
+
+.nextQuarter:hover {
+  background: var(--black);
+  color: white;
+  border: 2px solid white;
+}
